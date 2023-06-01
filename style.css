@@ -2,8 +2,7 @@
     --cor-de-fundo: #9d00ff;
 }
 
-body{
-    background-color: var(--cor-de-fundo);
+    body{background-color: var(--cor-de-fundo);
 }
 
 h1{
