@@ -1,15 +1,8 @@
 @import url("styles/header.css");
-h1 {
-    background-color white;
-}    
 :root {
     --cor-de-fundo: #9d00ff;
     --branco: #ffffff;
 }
 
-    body{background-color: var(--cor-de-fundo);
-}
-
-body        {
-    background-color: rgb(132, 0, 255);
+body {background-color: var(--cor-de-fundo);
 }
