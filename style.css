@@ -1,4 +1,7 @@
 @import url("styles/header.css");
+h1 {
+    background-color white;
+}    
 :root {
     --cor-de-fundo: #9d00ff;
     --branco: #ffffff;
