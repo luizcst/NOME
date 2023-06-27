@@ -27,6 +27,7 @@
     border-radius: 24px;
     padding: 1em;
     width: 100%;
+    background: url("../img/lupa.svg") no-repeat;
 }
 .banner__pesquisa:placeholder {
     font-family: var(--fonte-principal);
@@ -34,6 +35,6 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("../img/lupa.svg") no-repeat;
+    
     background-position: 1em;
 }
