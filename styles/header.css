@@ -33,6 +33,7 @@
 .lista-menu__titulo {
     color: var(--laranja);
     font-weight: 700;
+    background-color: var(--branco);
 }        
 .lista-menu__item {
 padding: 1em;
