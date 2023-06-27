@@ -28,6 +28,7 @@
     padding: 1em;
     width: 100%;
     background: url("../img/lupa.svg") no-repeat;
+    background-position: 1em;
     text-align: center;
 }
 .banner__pesquisa:placeholder {
@@ -36,6 +37,4 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    
-    background-position: 1em;
 }
