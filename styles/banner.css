@@ -28,6 +28,7 @@
     padding: 1em;
     width: 100%;
     background: url("../img/lupa.svg") no-repeat;
+    text-align: center;
 }
 .banner__pesquisa:placeholder {
     font-family: var(--fonte-principal);
